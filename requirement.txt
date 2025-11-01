@@ -6,6 +6,6 @@ yfinance
 ta
 scikit-learn
 xgboost
-tensorflow
+tensorflow-cpu
 fpdf
-keras
+protobuf==3.20.3
